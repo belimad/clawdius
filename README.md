@@ -1,8 +1,8 @@
 # Clawdius
 
 <div align="center">
-  <img src="<img width="670" height="636" alt="image" src="[https://github.com/user-attachments/assets/95606acd-e9d3-4a04-9dc4-eeac568272ae](https://cdn.discordapp.com/attachments/1223572274779652168/1467243320144039956/image.png?ex=697fac53&is=697e5ad3&hm=3608fca75eb1915b78f7c9fc1491c8d04eda5ae447c77b65ecaad0749c3fa3ec&)" />
-"<img width="974" height="756" alt="image" src="<img width="670" height="636" alt="image" src="[https://github.com/user-attachments/assets/58d762da-aed9-4fc5-b617-f5c795464758](https://cdn.discordapp.com/attachments/1223572274779652168/1467243320144039956/image.png?ex=697fac53&is=697e5ad3&hm=3608fca75eb1915b78f7c9fc1491c8d04eda5ae447c77b65ecaad0749c3fa3ec&)" />
+  <img src="<img width="670" height="636" alt="image" src="https://i.ibb.co/G3rHG3Bz/Gemini-Generated-Image-fyz93ifyz93ifyz9.png" />
+"<img width="974" height="756" alt="image" src="<img width="670" height="636" alt="image" src="https://i.ibb.co/G3rHG3Bz/Gemini-Generated-Image-fyz93ifyz93ifyz9.png" />
 " />
 
   <h3>Next-Generation AI Agent Orchestration Platform</h3>
