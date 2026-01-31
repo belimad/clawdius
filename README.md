@@ -19,7 +19,7 @@
 
 ## 🌟 Overview
 
-VoraAI revolutionizes AI interaction by creating a seamless orchestration platform where multiple specialized AI agents collaborate to solve complex tasks. Built on modern web technologies, it features an intuitive interface, real-time updates, and sophisticated state management.
+Clawdius revolutionizes AI interaction by creating a seamless orchestration platform where multiple specialized AI agents collaborate to solve complex tasks. Built on modern web technologies, it features an intuitive interface, real-time updates, and sophisticated state management.
 
 ### Key Differentiators
 
