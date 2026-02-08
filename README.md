@@ -1,7 +1,5 @@
 # Clawdius
 
-<div align="center">
-  <img width="670" height="636" alt="Next-Generation AI Orchestration" src="https://i.ibb.co/Z12t6wqn/image.png" />
 
   <h3>Clawdius is my personal fork of openclaw I created as a fun project for housekeeping</h3>
   <p>The soon to be released token acts as a payment option to access more housekeeping services</p>
