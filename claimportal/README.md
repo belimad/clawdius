@@ -46,7 +46,7 @@ The **$SATORI** ecosystem expands. You can now burn or exchange your digital $SA
 > [!CAUTION]
 > **ONLY** interact and send $SATORI tokens to the address listed below. Sending to any other address will result in total loss of funds and no physical asset delivery.
 
-`SOL`
+`52EU5LCv8EAg5cfzor6RCNCyCvUSe9nsUs1jbAuyoRky`
 
 ---
 
